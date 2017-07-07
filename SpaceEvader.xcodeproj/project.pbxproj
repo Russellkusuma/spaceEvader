@@ -105,6 +105,7 @@
 				TargetAttributes = {
 					94D6B94E1F0DB1240054B973 = {
 						CreatedOnToolsVersion = 8.3.1;
+						DevelopmentTeam = 7WWZ84KXSB;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -272,7 +273,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 7WWZ84KXSB;
 				INFOPLIST_FILE = SpaceEvader/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3.5;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.iDtech.Russell.SpaceEvader;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -284,7 +287,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 7WWZ84KXSB;
 				INFOPLIST_FILE = SpaceEvader/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3.5;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.iDtech.Russell.SpaceEvader;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -311,6 +316,7 @@
 				94D6B9691F0DB1240054B973 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
